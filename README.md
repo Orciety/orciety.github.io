@@ -1,90 +1,82 @@
-# Portfolio Website
+# My Composer Portfolio
 
-## Description
+Welcome to my Composer Portfolio website repository. This project showcases my work as a composer, featuring my compositions, projects, and background in music theory and composition. The website is built using a template from [BootstrapMade](https://bootstrapmade.com).
 
-This is a personal portfolio website for a composer and music producer based in Canada. The website features a dark color scheme and includes the following sections:
-- A sticky navigation bar that leads to different sections on the page
-- A description section about the composer and music producer
-- Social media links in styled boxes
-- Image links to the music created by the composer
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About
+
+I am a composer based in Canada with extensive experience in music theory and composition. This website serves as a portfolio to display my work, including audio samples, sheet music, and information about my background and skills.
 
 ## Features
 
-- **Sticky Navigation Bar**: The navigation bar sticks to the top of the page as you scroll, providing easy access to different sections.
-- **About Me Section**: A brief description of the composer and music producer.
-- **Social Media Links**: Pretty boxes containing links to various social media profiles.
-- **Music Links**: Image links to the music created by the composer.
+- **Homepage**: Introduction and overview of my work.
+- **About Me**: Detailed background information about my experience and skills in music.
+- **Compositions**: Showcase of my compositions with audio samples and sheet music.
+- **Projects**: Information about various projects I have worked on.
+- **Contact**: A form for visitors to get in touch with me.
 
-## Technologies Used
+## Installation
 
-- HTML
-- CSS
-
-## Getting Started
-
-To view or modify the website, follow these steps:
+To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    ```sh
+    git clone https://github.com/yourusername/your-repo-name.git
     ```
 
 2. **Navigate to the project directory**:
-    ```bash
-    cd portfolio-website
+    ```sh
+    cd your-repo-name
     ```
 
-3. **Open the `index.html` file in your browser** to view the website.
-
-## File Structure
-
-- `index.html` - The main HTML file containing the structure of the website.
-- `styles.css` - The CSS file containing the styles for the website.
-
-## Customization
-
-### HTML
-
-You can modify the content of the sections by editing the `index.html` file:
-
-- **About Me Section**: Update the description text to reflect your personal information.
-- **Social Media Links**: Update the URLs to your social media profiles.
-- **Music Links**: Update the image sources and URLs to your music.
-
-### CSS
-
-You can customize the styles by editing the `styles.css` file:
-
-- **Color Scheme**: Adjust the colors to match your preferred dark theme.
-- **Fonts and Sizes**: Change the font families and sizes as needed.
-- **Layout**: Modify the padding, margins, and other layout properties to suit your design preferences.
-
-## Deployment
-
-To deploy the website, you can use any static site hosting service such as GitHub Pages, Netlify, or Vercel.
-
-### GitHub Pages
-
-1. **Push your local repository to GitHub**:
-    ```bash
-    git push origin main
+3. **Open the index.html file in your browser**:
+    ```sh
+    open index.html
     ```
 
-2. **Go to the repository settings** on GitHub.
+## Usage
 
-3. **Enable GitHub Pages** from the settings, and select the main branch as the source.
+This website is static and does not require a server to run. You can view it by opening the `index.html` file in any web browser. If you want to make changes or updates, you can modify the HTML, CSS, and JavaScript files as needed.
 
-Your website will be available at `https://yourusername.github.io/portfolio-website`.
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. **Fork the repository**.
+2. **Create a new branch**:
+    ```sh
+    git checkout -b feature/YourFeature
+    ```
+3. **Make your changes**.
+4. **Commit your changes**:
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+5. **Push to the branch**:
+    ```sh
+    git push origin feature/YourFeature
+    ```
+6. **Open a pull request**.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Inspired by various portfolio website designs.
-- Special thanks to all the resources and tutorials that helped in building this website.
-
 ## Contact
 
-For any inquiries, please contact me at [your-email@example.com].
+Feel free to reach out to me through the contact form on the website or via email at [your-email@example.com](mailto:your-email@example.com).
+
+Thank you for visiting my portfolio!
+
+---
+
+*Note: Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name. Update the email address and any other placeholder information with your actual details.*
