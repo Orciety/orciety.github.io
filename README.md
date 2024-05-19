@@ -14,7 +14,7 @@ Welcome to my Composer Portfolio website repository. This project showcases my w
 
 ## About
 
-I am a composer based in Canada with extensive experience in music theory and composition. This website serves as a portfolio to display my work, including audio samples, sheet music, and information about my background and skills.
+I am a music composer based in Canada with extensive experience in music theory and composition. This website serves as a portfolio to display my work, including audio samples, sheet music, and information about my background and skills.
 
 ## Features
 
@@ -69,14 +69,12 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal license. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Feel free to reach out to me through the contact form on the website or via email at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out to me through the contact form on the website or via email at [orciety@hotmail.com](mailto:orciety@hotmail.com).
 
 Thank you for visiting my portfolio!
 
 ---
-
-*Note: Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name. Update the email address and any other placeholder information with your actual details.*
