@@ -20,9 +20,9 @@ I am a music composer based in Canada with extensive experience in music theory 
 
 - **Homepage**: Introduction and overview of my work.
 - **About Me**: Detailed background information about my experience and skills in music.
-- **Compositions**: Showcase of my compositions with audio samples and sheet music.
+- **Demos**: Showcase of my compositions with audio samples and/or sheet music.
 - **Projects**: Information about various projects I have worked on.
-- **Contact**: A form for visitors to get in touch with me.
+- **Contact**: Socials for visitors to get in touch with me.
 
 ## Installation
 
