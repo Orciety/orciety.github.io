@@ -8,9 +8,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+hr {
+  border: 2px solid #b8a07e;
+}
+
 body {
-  background: #ffffff;
-  color: #898989;
+  background: #000000;
+  color: #ffffff;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -27,18 +32,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #ffffff;
   font-weight: 600;
 }
 
 h4 {
-  color: #292929;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 600;
 }
 
 a {
-  color: #292929;
+  color: #ffffff;
   text-decoration: none !important;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -51,7 +56,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #ffffff;
   line-height: 28px;
 }
 
@@ -159,11 +164,11 @@ p {
 }
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #000;
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #c6b398;
+  background: #ffffff;
   color: #fff;
 }
 .back-to-top.active {
@@ -178,7 +183,7 @@ p {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #fff;
+  background-color: #ffffff;
   top: -100%;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
 }
@@ -196,7 +201,7 @@ p {
   font-style: italic;
 }
 #header .logo a {
-  color: #898989;
+  color: #b8a07e;
 }
 #header .logo img {
   max-height: 40px;
@@ -234,7 +239,7 @@ p {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 500;
-  color: #7e7d7d;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -492,7 +497,7 @@ p {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #000000;
   padding-top: 120px;
 }
 
@@ -527,7 +532,7 @@ p {
 # Services
 --------------------------------------------------------------*/
 #services {
-  background: #f7f7f7;
+  background: #000000;
   position: relative;
   padding-bottom: 80px;
 }
@@ -536,7 +541,7 @@ p {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #ffffff;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -593,7 +598,7 @@ p {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #ffffff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -632,7 +637,7 @@ p {
 }
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  color: #666;
+  color: #ffffff;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -755,7 +760,7 @@ p {
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
-  color: #292929;
+  color: #ffffff;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -993,7 +998,7 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+  background: #000000;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -1040,6 +1045,7 @@ blockquote {
 .credits {
   font-size: 13px;
 }
+
 
 /** Width between 1200x to 0
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
