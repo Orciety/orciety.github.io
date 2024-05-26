@@ -9,6 +9,8 @@
 # General
 --------------------------------------------------------------*/
 
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
 hr {
   border: 2px solid #b8a07e;
 }
@@ -43,8 +45,8 @@ h4 {
 }
 
 a {
-  color: #ffffff;
-  text-decoration: none !important;
+  color: #b8a07e;
+  text-decoration: underline dotted;
   transition: all 0.5s ease-in-out 0s;
 }
 
