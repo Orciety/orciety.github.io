@@ -1,6 +1,6 @@
-# My Composer Portfolio
+# Orciety Portfolio
 
-Welcome to my Composer Portfolio website repository. This project showcases my work as a composer, featuring my compositions, projects, and background in music theory and composition. The website is built using a template from [BootstrapMade](https://bootstrapmade.com).
+Welcome to my composer portfolio website repository. This project showcases my work as a composer, featuring my compositions, projects, and background in music theory and composition. The website is built using a template from [BootstrapMade](https://bootstrapmade.com).
 
 ## Table of Contents
 
