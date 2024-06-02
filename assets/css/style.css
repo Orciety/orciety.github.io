@@ -28,6 +28,8 @@ body {
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
+  scrollbar-width: none;
+  scrollbar-color: red green;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -149,6 +151,7 @@ p {
   padding-top: 140px;
 }
 
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -171,8 +174,8 @@ p {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #ffffff;
-  color: #fff;
+  background: #4b4a4a;
+  color: #4b4a4a;
 }
 .back-to-top.active {
   visibility: visible;
@@ -190,6 +193,7 @@ p {
   top: -100%;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
   border-bottom: 2px solid #b8a07e;
+  border-top: 2px solid #b8a07e;
 }
 #header.header-scrolled, #header.header-inner-pages {
   top: 0;
@@ -311,7 +315,7 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #4b4a4a;
+  color: #fff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -355,14 +359,14 @@ p {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #000;
   overflow-y: auto;
   transition: 0.3s;
 }
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #4b4a4a;
+  color: #fff;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #b8a07e;
