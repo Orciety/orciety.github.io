@@ -40,12 +40,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #ffffff;
+  color: #fff;
   font-weight: 600;
 }
 
 h4 {
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
   font-weight: 600;
 }
@@ -64,7 +64,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #ffffff;
+  color: #fff;
   line-height: 28px;
 }
 
@@ -195,7 +195,7 @@ p {
   background-color: #000;
   top: -100%;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
-  border-bottom: 5px ridge #b8a07e;
+  border-bottom: 3px ridge #b8a07e;
 }
 #header.header-scrolled, #header.header-inner-pages {
   top: 0;
