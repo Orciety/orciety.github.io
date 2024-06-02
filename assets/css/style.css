@@ -186,9 +186,10 @@ p {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #ffffff;
+  background-color: #000;
   top: -100%;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
+  border-bottom: 2px solid #b8a07e;
 }
 #header.header-scrolled, #header.header-inner-pages {
   top: 0;
@@ -242,7 +243,7 @@ p {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 500;
-  color: #000000;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
