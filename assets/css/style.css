@@ -16,6 +16,11 @@ hr {
   border: 2px solid #b8a07e;
 }
 
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #b8a07e #000;
+}
+
 body {
   background: #000000;
   color: #ffffff;
@@ -28,8 +33,6 @@ body {
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
-  scrollbar-width: none;
-  scrollbar-color: red green;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -192,8 +195,7 @@ p {
   background-color: #000;
   top: -100%;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
-  border-bottom: 2px solid #b8a07e;
-  border-top: 2px solid #b8a07e;
+  border-bottom: 5px ridge #b8a07e;
 }
 #header.header-scrolled, #header.header-inner-pages {
   top: 0;
