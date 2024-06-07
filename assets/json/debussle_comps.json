@@ -1,0 +1,32 @@
+[
+    {
+        "name": "bach",
+        "length": "4",
+        "period": "baroque"
+    },
+    {
+        "name": "beethoven",
+        "length": "9",
+        "period": "classical"
+    },
+    {
+        "name": "chopin",
+        "length": "6",
+        "period": "romantic"
+    },
+    {
+        "name": "debussy",
+        "length": "7",
+        "period": "impressionist"
+    },
+    {
+        "name": "liszt",
+        "length": "5",
+        "period": "romantic"
+    },
+    {
+        "name": "mozart",
+        "length": "6",
+        "period": "classical"
+    }
+]
