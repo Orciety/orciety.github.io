@@ -1,4 +1,4 @@
-fetch('orciety.github.io/assets/json/composers.json')
+fetch('assets/json/composers.json')
   .then(response => response.json())
   .then(jsonResponse => console.log(jsonResponse))     
    // outputs a javascript object from the parsed json
