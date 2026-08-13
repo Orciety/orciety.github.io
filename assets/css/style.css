@@ -1399,3 +1399,6 @@ blockquote {
     margin-right: 0;
   }
 }
+.campaign {
+    text-align: center;
+  }
